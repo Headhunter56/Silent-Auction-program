@@ -13,5 +13,5 @@ This is a simple **Silent Auction Program** written in **Python**, where users c
 ## 📁 Project Structure
 
 ```plaintext
-silent_auction.py       # Main Python file
+silent_auction_game.py 
 
